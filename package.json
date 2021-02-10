@@ -1,7 +1,6 @@
 {
   "name": "cats",
   "version": "1.0.0",
-  "description": "",
   "main": "asyncBreeds.js",
   "scripts": {
     "test": "mocha"
@@ -20,5 +19,10 @@
   "devDependencies": {
     "chai": "^4.3.0",
     "mocha": "^8.2.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "description": ""
 }
